@@ -1,0 +1,9 @@
+.project
+.classpath
+.settings/
+*/.DS_Store
+target/
+build/
+work/
+*/_site/
+*/\.sass-cache/
